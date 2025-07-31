@@ -1,0 +1,15 @@
+{
+  "commonProperties": [
+    {
+      "colName": "exposure_score",
+      "colExpr": "cast(null as intttt)",
+      "fieldsSpec": {
+        "isInventoryDerived": true
+      }
+    },
+    {
+      "colName": "data_source_dev",
+      "colExpr": "pai_sourcessss"
+    }
+  ]
+}
